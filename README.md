@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**kglourenco/kglourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h3>Habilidades:</h3>
+  <ul>
+    <li><i class="fab fa-python"></i>Python</li>
+    <li><i class="fas fa-chart-bar"></i> Power BI</li>
+    <li><i class="fas fa-table"></i> DAX</li>
+    <li><i class="fas fa-database"></i> Power Query</li>
+    <li><i class="fas fa-database"></i> SQL</li>
+    <li><i class="fas fa-chart-line"></i> Indicadores</li>
+  </ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=kglourenco&show_icons=true&theme=dark)](https://github.com/kglourenco)
